@@ -56,7 +56,7 @@ export function Navbar() {
               href="#course"
               className="px-6 py-2.5 rounded-full text-sm font-bold bg-primary text-white shadow-lg shadow-primary/30 hover:shadow-xl hover:shadow-primary/40 hover:-translate-y-0.5 active:translate-y-0 transition-all duration-200"
             >
-              Seja um associado
+              Inscreva-se
             </a>
           </nav>
 
@@ -96,7 +96,7 @@ export function Navbar() {
                 onClick={() => setMobileMenuOpen(false)}
                 className="mt-2 text-center px-6 py-3 rounded-xl font-bold bg-primary text-white shadow-md"
               >
-                Seja um associado
+                Inscreva-se
               </a>
             </nav>
           </motion.div>
