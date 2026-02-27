@@ -20,7 +20,7 @@ export function Hero() {
           >
             <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-primary/10 text-primary font-medium text-sm mb-6 border border-primary/20">
               <Sparkles className="w-4 h-4" />
-              <span>A nova SUCESU São Paulo apresenta</span>
+              <span>A SUCESU São Paulo apresenta</span>
             </div>
             
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-extrabold tracking-tight text-foreground mb-6 leading-[1.1]">
