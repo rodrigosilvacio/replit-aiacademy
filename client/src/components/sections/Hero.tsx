@@ -30,7 +30,7 @@ export function Hero() {
             </h1>
             
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed mb-8">
-              Seja você um entusiasta da tecnologia, um profissional de TI experiente, um estudante ambicioso ou um empreendedor visionário, a nova SUCESU São Paulo é o seu destino para mergulhar nas últimas tendências tecnológicas, ampliar sua rede de contatos e contribuir para a evolução do setor de Tecnologia da Informação em São Paulo.
+              Seja você um entusiasta da tecnologia, um profissional de TI experiente, um estudante ambicioso ou um empreendedor visionário, a SUCESU São Paulo é o seu destino para mergulhar nas últimas tendências tecnológicas, ampliar sua rede de contatos e contribuir para a evolução do setor de Tecnologia da Informação em São Paulo.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4">
