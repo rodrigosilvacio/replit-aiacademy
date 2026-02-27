@@ -14,7 +14,7 @@ export function CourseInfo() {
     {
       icon: <Clock className="w-8 h-8 text-primary" />,
       title: "Duração",
-      description: "60 horas de imersão profunda.",
+      description: "12 horas de imersão profunda.",
       content: "Um formato intensivo desenhado para profissionais que precisam de resultados rápidos sem perder a densidade teórica. Aulas ao vivo com mentoria direta de especialistas de mercado."
     },
     {
