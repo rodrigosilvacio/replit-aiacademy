@@ -7,7 +7,7 @@ export function CourseInfo() {
     "Engenharia de Prompts Avançada",
     "Ferramentas de IA Generativa no Dia a Dia",
     "Ética, Segurança e Governança em IA",
-    "Projeto Final: Solução Aplicada",
+    "Projeto Final: Solução Aplicada com Lovable, n8n e ElevenLabs",
   ];
 
   const features = [
