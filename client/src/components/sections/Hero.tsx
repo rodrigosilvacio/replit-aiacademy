@@ -4,7 +4,7 @@ import heroImg from "@assets/image_1772191491606.png";
 
 export function Hero() {
   return (
-    <section className="relative pt-32 pb-20 lg:pt-48 lg:pb-32 overflow-hidden bg-background">
+    <section className="relative pt-16 pb-20 lg:pt-24 lg:pb-32 overflow-hidden bg-background">
       {/* Decorative background shapes */}
       <div className="absolute top-0 right-0 -mr-20 -mt-20 w-96 h-96 rounded-full bg-primary/10 blur-3xl pointer-events-none" />
       <div className="absolute bottom-0 left-0 -ml-20 -mb-20 w-80 h-80 rounded-full bg-accent/10 blur-3xl pointer-events-none" />
