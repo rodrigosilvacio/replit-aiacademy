@@ -37,7 +37,7 @@ export function CourseInfo() {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Sobre o <span className="text-gradient">Treinamento</span></h2>
           <p className="text-lg text-muted-foreground">
-            O AI Academy foi estruturado para preencher a lacuna entre a teoria acadêmica e as necessidades reais do mercado corporativo.
+            O SUCESU Academy foi estruturado para preencher a lacuna entre a teoria acadêmica e as necessidades reais do mercado corporativo.
           </p>
         </div>
 
@@ -72,7 +72,7 @@ export function CourseInfo() {
             <div>
               <h3 className="text-3xl font-bold mb-4">O que você vai dominar</h3>
               <p className="text-white/80 text-lg mb-8">
-                Ao concluir o AI Academy, você estará apto a liderar iniciativas de inteligência artificial na sua empresa, otimizando processos e criando novos produtos.
+                Ao concluir o SUCESU Academy, você estará apto a liderar iniciativas de inteligência artificial na sua empresa, otimizando processos e criando novos produtos.
               </p>
               
               <div className="space-y-4">

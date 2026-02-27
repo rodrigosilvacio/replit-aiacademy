@@ -24,7 +24,7 @@ export function Hero() {
             </div>
             
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-extrabold tracking-tight text-foreground mb-6 leading-[1.1]">
-              <span className="text-gradient">AI Academy</span>
+              <span className="text-gradient">SUCESU Academy</span>
               <br />
               O Futuro Agora.
             </h1>

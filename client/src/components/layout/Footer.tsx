@@ -30,7 +30,7 @@ export function Footer() {
             <h4 className="text-white font-bold mb-6">Navegação</h4>
             <ul className="space-y-4">
               <li><a href="#about" className="text-white/60 hover:text-white transition-colors">Sobre a SUCESU</a></li>
-              <li><a href="#course" className="text-white/60 hover:text-white transition-colors">AI Academy</a></li>
+              <li><a href="#course" className="text-white/60 hover:text-white transition-colors">SUCESU Academy</a></li>
               <li><a href="#" className="text-white/60 hover:text-white transition-colors">Eventos</a></li>
               <li><a href="#" className="text-white/60 hover:text-white transition-colors">Seja um Associado</a></li>
             </ul>

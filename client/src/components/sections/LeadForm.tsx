@@ -60,7 +60,7 @@ export function LeadForm() {
             Fique por dentro das novidades
           </h2>
           <p className="text-lg text-muted-foreground mb-10 max-w-2xl mx-auto">
-            Deixe seu e-mail para receber conteúdos exclusivos, convites para eventos e detalhes sobre as próximas turmas do AI Academy.
+            Deixe seu e-mail para receber conteúdos exclusivos, convites para eventos e detalhes sobre as próximas turmas do SUCESU Academy.
           </p>
 
           <form onSubmit={form.handleSubmit(onSubmit)} className="max-w-xl mx-auto space-y-4 text-left">
