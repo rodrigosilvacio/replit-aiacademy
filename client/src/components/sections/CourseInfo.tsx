@@ -63,7 +63,7 @@ export function CourseInfo() {
           ))}
         </div>
 
-        <div className="mt-20 glass-dark rounded-3xl p-8 md:p-12 text-white overflow-hidden relative">
+        <div id="grade" className="mt-20 glass-dark rounded-3xl p-8 md:p-12 text-white overflow-hidden relative">
           {/* decorative gradient meshes */}
           <div className="absolute top-0 right-0 w-64 h-64 bg-primary/30 rounded-full blur-3xl" />
           <div className="absolute bottom-0 left-0 w-64 h-64 bg-accent/20 rounded-full blur-3xl" />

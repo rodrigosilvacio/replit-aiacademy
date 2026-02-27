@@ -16,7 +16,7 @@ export function Navbar() {
   const navLinks = [
     { label: "Sobre", href: "#about" },
     { label: "Conteúdo e Conhecimento", href: "#course" },
-    { label: "Eventos", href: "#" },
+    { label: "Grade", href: "#grade" },
     { label: "Associados", href: "#" },
     { label: "Contato", href: "#contact" },
   ];
