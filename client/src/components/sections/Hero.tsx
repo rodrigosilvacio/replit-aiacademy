@@ -76,7 +76,7 @@ export function Hero() {
                 </div>
                 <div>
                   <p className="text-sm font-medium text-foreground/60 uppercase tracking-wider">Metodologia Exclusiva</p>
-                  <p className="text-lg font-bold text-foreground">Imersão Prática em IA</p>
+                  <p className="text-lg font-bold text-foreground">Imersão Prática Executiva em IA</p>
                 </div>
               </motion.div>
             </div>
