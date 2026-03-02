@@ -59,7 +59,7 @@ export function Hero() {
             <div className="relative rounded-3xl overflow-hidden shadow-2xl shadow-primary/20 aspect-square lg:aspect-[4/3] border-4 border-white">
               {/* landing page hero neural network digital abstract representation */}
               <img
-                src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=900&fit=crop"
+                src={heroImg}
                 alt="Inteligência Artificial"
                 className="w-full h-full object-cover"
               />
