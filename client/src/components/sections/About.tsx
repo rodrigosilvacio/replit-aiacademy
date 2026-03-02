@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { Users, Globe2, Lightbulb } from "lucide-react";
 import logo from "@assets/image_1772191440087.png";
+import aboutImg from "@assets/A_casa_do_profissional_de_TI_em_São_Paulo_1772481676527.jpg";
 
 export function About() {
   return (
@@ -57,7 +58,7 @@ export function About() {
             {/* modern office business tech networking meeting */}
             <div className="rounded-[2.5rem] overflow-hidden shadow-2xl h-[600px]">
               <img 
-                src="https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=1000&fit=crop" 
+                src={aboutImg} 
                 alt="Networking e Inovação" 
                 className="w-full h-full object-cover"
               />
