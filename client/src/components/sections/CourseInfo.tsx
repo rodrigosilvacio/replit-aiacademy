@@ -1,5 +1,6 @@
 import { Clock, BookOpen, Layers, CheckCircle2 } from "lucide-react";
 import { motion } from "framer-motion";
+import gradeImg from "@assets/O_que_você_vai_dominar_1772481608704.jpg";
 
 export function CourseInfo() {
   const modules = [
@@ -95,7 +96,7 @@ export function CourseInfo() {
             <div className="relative h-full min-h-[300px] rounded-2xl overflow-hidden border border-white/20">
               {/* professional tech corporate diverse team learning */}
               <img 
-                src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=600&fit=crop" 
+                src={gradeImg} 
                 alt="Turma de Tecnologia" 
                 className="absolute inset-0 w-full h-full object-cover"
               />
