@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { ArrowRight, Sparkles, BrainCircuit } from "lucide-react";
-import heroImg from "@assets/image_1772191491606.png";
+import heroImg from "@assets/Hero_1772481391894.jpg";
 
 export function Hero() {
   return (
