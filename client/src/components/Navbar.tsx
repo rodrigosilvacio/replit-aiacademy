@@ -53,7 +53,9 @@ export function Navbar() {
               </a>
             ))}
             <a
-              href="#course"
+              href="https://www.sympla.com.br/evento/sucesu-academy---academia-de-ai-da-sucesu-sp/3340249"
+              target="_blank"
+              rel="noopener noreferrer"
               className="px-6 py-2.5 rounded-full text-sm font-bold bg-primary text-white shadow-lg shadow-primary/30 hover:shadow-xl hover:shadow-primary/40 hover:-translate-y-0.5 active:translate-y-0 transition-all duration-200"
             >
               Inscreva-se
@@ -92,7 +94,9 @@ export function Navbar() {
                 </a>
               ))}
               <a
-                href="#course"
+                href="https://www.sympla.com.br/evento/sucesu-academy---academia-de-ai-da-sucesu-sp/3340249"
+                target="_blank"
+                rel="noopener noreferrer"
                 onClick={() => setMobileMenuOpen(false)}
                 className="mt-2 text-center px-6 py-3 rounded-xl font-bold bg-primary text-white shadow-md"
               >
