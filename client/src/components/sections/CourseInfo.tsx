@@ -1,4 +1,4 @@
-import { Clock, BookOpen, Layers, CheckCircle2 } from "lucide-react";
+import { Clock, BookOpen, Layers, CheckCircle2, Calendar, MapPin, Monitor } from "lucide-react";
 import { motion } from "framer-motion";
 import gradeImg from "@assets/O_que_você_vai_dominar_1772481608704.jpg";
 
@@ -41,6 +41,51 @@ export function CourseInfo() {
             O SUCESU SP Academy foi estruturado para preencher a lacuna entre a teoria acadêmica e as necessidades reais do mercado corporativo.
           </p>
         </div>
+
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.5 }}
+          className="mb-12 bg-primary/5 border border-primary/20 rounded-2xl p-6 md:p-8"
+        >
+          <div className="flex items-center gap-2 mb-5">
+            <Calendar className="w-5 h-5 text-primary" />
+            <span className="font-bold text-primary uppercase tracking-wider text-sm">Datas e Horários</span>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <div className="bg-white rounded-xl p-5 border border-border flex gap-4 items-start">
+              <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center flex-shrink-0 mt-0.5">
+                <Monitor className="w-5 h-5 text-primary" />
+              </div>
+              <div>
+                <p className="text-xs font-semibold text-primary uppercase tracking-wider mb-1">Remoto</p>
+                <p className="font-bold text-foreground text-lg">27/04 (segunda)</p>
+                <p className="text-muted-foreground text-sm">19h às 21h</p>
+              </div>
+            </div>
+            <div className="bg-white rounded-xl p-5 border border-border flex gap-4 items-start">
+              <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center flex-shrink-0 mt-0.5">
+                <Monitor className="w-5 h-5 text-primary" />
+              </div>
+              <div>
+                <p className="text-xs font-semibold text-primary uppercase tracking-wider mb-1">Remoto</p>
+                <p className="font-bold text-foreground text-lg">29/04 (quarta)</p>
+                <p className="text-muted-foreground text-sm">19h às 21h</p>
+              </div>
+            </div>
+            <div className="bg-white rounded-xl p-5 border border-border flex gap-4 items-start">
+              <div className="w-10 h-10 rounded-lg bg-accent/20 flex items-center justify-center flex-shrink-0 mt-0.5">
+                <MapPin className="w-5 h-5 text-accent" />
+              </div>
+              <div>
+                <p className="text-xs font-semibold text-accent uppercase tracking-wider mb-1">Presencial</p>
+                <p className="font-bold text-foreground text-lg">30/04 (quinta)</p>
+                <p className="text-muted-foreground text-sm">8h30 às 17h30</p>
+              </div>
+            </div>
+          </div>
+        </motion.div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {features.map((feature, index) => (
