@@ -30,15 +30,18 @@ export function Hero() {
             </h1>
             
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed mb-8">
-              Seja você um entusiasta da tecnologia, um profissional de TI experiente, um estudante ambicioso ou um empreendedor visionário, a SUCESU São Paulo é o seu destino para mergulhar nas últimas tendências tecnológicas, ampliar sua rede de contatos e contribuir para a evolução do setor de Tecnologia da Informação em São Paulo.
+              Uma imersão prática de 12 horas em Inteligência Artificial para executivos e líderes de TI. Aprenda, construa e aplique IA real no seu negócio — em 3 encontros.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="#course"
+                href="https://www.sympla.com.br/evento/sucesu-academy---academia-de-ai-da-sucesu-sp/3340249"
+                target="_blank"
+                rel="noopener noreferrer"
+                data-testid="button-hero-inscricao"
                 className="inline-flex justify-center items-center gap-2 px-8 py-4 rounded-xl font-bold text-white bg-primary shadow-lg shadow-primary/30 hover:shadow-xl hover:shadow-primary/40 hover:-translate-y-1 transition-all duration-300"
               >
-                Conheça o Curso
+                Inscreva-se Agora
                 <ArrowRight className="w-5 h-5" />
               </a>
               <a

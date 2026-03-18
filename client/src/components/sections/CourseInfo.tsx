@@ -82,6 +82,10 @@ export function CourseInfo() {
                 <p className="text-xs font-semibold text-accent uppercase tracking-wider mb-1">Presencial</p>
                 <p className="font-bold text-foreground text-lg">30/04 (quinta)</p>
                 <p className="text-muted-foreground text-sm">8h30 às 17h30</p>
+                <div className="flex items-start gap-1 mt-2">
+                  <MapPin className="w-3.5 h-3.5 text-muted-foreground flex-shrink-0 mt-0.5" />
+                  <p className="text-muted-foreground text-xs leading-tight">Rua Harmonia, 1250 – Vila Madalena, São Paulo – SP</p>
+                </div>
               </div>
             </div>
           </div>
