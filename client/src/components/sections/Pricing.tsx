@@ -1,7 +1,6 @@
 import { motion } from "framer-motion";
 import { CheckCircle2, Zap, Star, ArrowRight } from "lucide-react";
-
-const SYMPLA_URL = "https://www.sympla.com.br/evento/sucesu-academy---academia-de-ai-da-sucesu-sp/3340249";
+import { SYMPLA_URL } from "@/lib/constants";
 
 const plans = [
   {

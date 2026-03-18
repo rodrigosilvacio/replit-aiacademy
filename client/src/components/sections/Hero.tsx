@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { ArrowRight, Sparkles, BrainCircuit } from "lucide-react";
 import heroImg from "@assets/Hero_1772481391894.jpg";
+import { SYMPLA_URL } from "@/lib/constants";
 
 export function Hero() {
   return (
@@ -35,7 +36,7 @@ export function Hero() {
             
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="https://www.sympla.com.br/evento/sucesu-academy---academia-de-ai-da-sucesu-sp/3340249"
+                href={SYMPLA_URL}
                 target="_blank"
                 rel="noopener noreferrer"
                 data-testid="button-hero-inscricao"
