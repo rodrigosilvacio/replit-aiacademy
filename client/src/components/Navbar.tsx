@@ -17,7 +17,7 @@ export function Navbar() {
     { label: "Sobre", href: "#about" },
     { label: "Conteúdo e Conhecimento", href: "#course" },
     { label: "Grade", href: "#grade" },
-    { label: "Associados", href: "#" },
+    { label: "FAQ", href: "#faq" },
     { label: "Contato", href: "#contact" },
   ];
 
