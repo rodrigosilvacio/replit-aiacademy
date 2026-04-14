@@ -60,7 +60,7 @@ export function CourseInfo() {
               </div>
               <div>
                 <p className="text-xs font-semibold text-primary uppercase tracking-wider mb-1">Remoto</p>
-                <p className="font-bold text-foreground text-lg">27/04 (segunda)</p>
+                <p className="font-bold text-foreground text-lg">18/05 (segunda)</p>
                 <p className="text-muted-foreground text-sm">19h às 21h</p>
               </div>
             </div>
@@ -70,7 +70,7 @@ export function CourseInfo() {
               </div>
               <div>
                 <p className="text-xs font-semibold text-primary uppercase tracking-wider mb-1">Remoto</p>
-                <p className="font-bold text-foreground text-lg">29/04 (quarta)</p>
+                <p className="font-bold text-foreground text-lg">20/05 (quarta)</p>
                 <p className="text-muted-foreground text-sm">19h às 21h</p>
               </div>
             </div>
@@ -80,7 +80,7 @@ export function CourseInfo() {
               </div>
               <div>
                 <p className="text-xs font-semibold text-accent uppercase tracking-wider mb-1">Presencial</p>
-                <p className="font-bold text-foreground text-lg">30/04 (quinta)</p>
+                <p className="font-bold text-foreground text-lg">22/05 (sexta)</p>
                 <p className="text-muted-foreground text-sm">8h30 às 17h30</p>
                 <div className="flex items-start gap-1 mt-2">
                   <MapPin className="w-3.5 h-3.5 text-muted-foreground flex-shrink-0 mt-0.5" />

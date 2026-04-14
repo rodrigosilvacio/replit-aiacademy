@@ -38,9 +38,9 @@ const faqs = [
         <div>
           <p className="font-semibold mb-2">Datas e horários:</p>
           <ul className="space-y-1 text-muted-foreground">
-            <li>• <strong>27/04 (segunda)</strong> – Online, das 19h às 21h</li>
-            <li>• <strong>29/04 (quarta)</strong> – Online, das 19h às 21h</li>
-            <li>• <strong>30/04 (quinta)</strong> – Presencial, das 8h30 às 17h30</li>
+            <li>• <strong>18/05 (segunda)</strong> – Online, das 19h às 21h</li>
+            <li>• <strong>20/05 (quarta)</strong> – Online, das 19h às 21h</li>
+            <li>• <strong>22/05 (sexta)</strong> – Presencial, das 8h30 às 17h30</li>
           </ul>
         </div>
         <div>
