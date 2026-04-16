@@ -8,7 +8,7 @@ export function CourseInfo() {
     "Engenharia de Prompts Avançada",
     "Ferramentas de IA Generativa no Dia a Dia",
     "Ética, Segurança e Governança em IA",
-    "Projeto Final: Solução Aplicada com Github, Replit, n8n e ElevenLabs",
+    "Projeto Final: Stack - Replit, ElevenLabs, n8n, Telegram e zAPI (Whatsapp)",
   ];
 
   const features = [
