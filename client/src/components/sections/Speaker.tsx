@@ -4,7 +4,7 @@ import { Star, Briefcase, Globe, Shield, Mic2 } from "lucide-react";
 const credentials = [
   {
     icon: <Globe className="w-5 h-5 text-primary" />,
-    text: "Embaixador de plataformas como Lovable, Cursor e Firecrawl",
+    text: "Embaixador de plataformas como Replit, Cursor e Firecrawl",
   },
   {
     icon: <Briefcase className="w-5 h-5 text-primary" />,
