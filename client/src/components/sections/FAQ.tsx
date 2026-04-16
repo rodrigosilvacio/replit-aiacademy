@@ -142,7 +142,7 @@ const faqs = [
         <p className="text-primary text-sm font-semibold mb-3">Especialista em IA e Produtos Digitais</p>
         <ul className="space-y-2 text-muted-foreground">
           {[
-            "Embaixador de plataformas como Replit, Cursor e Firecrawl",
+            "Embaixador de plataformas como Lovable, Cursor e Firecrawl",
             "Conselheiro de inovação e estratégia",
             "Experiência em diversos setores (energia, saúde, varejo, agro, entre outros)",
             "Forte atuação em IA aplicada, governança, dados e transformação digital",
